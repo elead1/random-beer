@@ -1,0 +1,101 @@
+Abita Purple Haze,http://beeradvocate.com/beer/profile/3/7
+Ace Pear,
+Ace Pilsner,
+Affligem Blond Abbey,http://beeradvocate.com/beer/profile/196/620
+Allagash White,http://beeradvocate.com/beer/profile/4/59
+Anchor Steam,http://beeradvocate.com/beer/profile/28/63
+Ayinger Altbairisch Dunkel,http://beeradvocate.com/beer/profile/39/134
+Baltika #6 Porter,http://beeradvocate.com/beer/profile/401/4694
+Bass Ale,http://beeradvocate.com/beer/profile/293/811
+Becks Lager,http://beeradvocate.com/beer/profile/32/1165
+Belhaven,http://beeradvocate.com/beer/profile/148/37670
+Bitburger Pils,http://beeradvocate.com/beer/profile/613/1641
+Blue Moon,http://beeradvocate.com/beer/profile/306/1212
+Blackened Voodoo,http://beeradvocate.com/beer/profile/404/1186
+Boddingtons Pub Ale,http://beeradvocate.com/beer/profile/655/1798
+Boulder Brewing Hazed & Infused,http://beeradvocate.com/beer/profile/130/6590
+Brooklyn Brown Ale,http://beeradvocate.com/beer/profile/45/146
+Celebrator Doppelbock,http://beeradvocate.com/beer/profile/39/131
+Chang,http://beeradvocate.com/beer/profile/493/7609
+Chimay Trappist,http://beeradvocate.com/beer/profile/215/672
+Crispin Brown Lane,
+Delirium Tremens,http://beeradvocate.com/beer/profile/180/1385
+Duchesse de Bourgogne,http://beeradvocate.com/beer/profile/641/1745
+Duvel Belgian Ale,http://beeradvocate.com/beer/profile/222/695
+Ephemere Apple,http://beeradvocate.com/beer/profile/22/3523
+Estrella Damm,http://beeradvocate.com/beer/profile/4949/60449
+Evolution Primal Pale Ale,http://beeradvocate.com/beer/profile/19897/51045
+Fat Tire,http://beeradvocate.com/beer/profile/192/607
+Flying Dog Raging Bitch,http://beeradvocate.com/beer/profile/68/52855
+Fordham Copperhead Ale,http://beeradvocate.com/beer/profile/4067/4043
+Fordham Lager,http://beeradvocate.com/beer/profile/4067/16777
+Fordham Light,http://beeradvocate.com/beer/profile/4067/43772
+Fordham Seasonal,
+Fordham Tavern,http://beeradvocate.com/beer/profile/4067/8790
+Fosters Lager Oil Can,http://beeradvocate.com/beer/profile/575/918
+Franziskaner Dunkel,http://beeradvocate.com/beer/profile/142/924
+Grolsch Premium Lager,http://beeradvocate.com/beer/profile/506/1426
+Harp Lager,http://beeradvocate.com/beer/profile/209/862
+Hoegarden,http://beeradvocate.com/beer/profile/83/248
+Hoptober,http://beeradvocate.com/beer/profile/192/51991
+Kalik,http://beeradvocate.com/beer/profile/944/3050
+Kingfisher Premium Lager,http://beeradvocate.com/beer/profile/91/266
+Kostritzer Black Beer,http://beeradvocate.com/beer/profile/648/1774
+Labbat Blue,http://beeradvocate.com/beer/profile/478/1371
+Lagunitas IPA,http://beeradvocate.com/beer/profile/220/916
+Lindemans Framboise Lambic,http://beeradvocate.com/beer/profile/187/599/
+Lindemans Kriek Lambic,http://beeradvocate.com/beer/profile/187/600
+Magic Hat #9,http://beeradvocate.com/beer/profile/96/299
+Magic Hat Seasonal,
+Molson Golden,http://beeradvocate.com/beer/profile/433/1313
+Moosehead Lager,http://beeradvocate.com/beer/profile/379/1053
+Morretti,http://beeradvocate.com/beer/profile/10161/867
+Murphys Stout Cans,http://beeradvocate.com/beer/profile/240/703
+Negro Modelo,http://beeradvocate.com/beer/profile/75/667/
+New Belgium Seasonal,
+Newcastle,http://beeradvocate.com/beer/profile/342/639
+Old Dominion English-Style Ale,http://beeradvocate.com/beer/profile/402/1388
+Old Dominion Oak Barrel Stout,http://beeradvocate.com/beer/profile/402/1192
+Old Peculier Theakston Stout,http://beeradvocate.com/beer/profile/359/926
+Ommegang Abbey Ale,http://beeradvocate.com/beer/profile/42/142
+Oskar Blues Dales Pale Ale,http://beeradvocate.com/beer/profile/28907/6518
+Paulaner Hefe Weizen,http://beeradvocate.com/beer/profile/124/1256
+Pilsner Urquell,http://beeradvocate.com/beer/profile/1/429
+Pinkus Organic Hefe Weizen,http://beeradvocate.com/beer/profile/31/82
+Ranger IPA,http://beeradvocate.com/beer/profile/192/55081
+Red Stripe Lager,http://beeradvocate.com/beer/profile/221/689
+Redhook ESB,http://beeradvocate.com/beer/profile/18134/1119
+Rouge Mocha Porter,http://beeradvocate.com/beer/profile/132/353
+Rouge Shakespeare Stout,http://beeradvocate.com/beer/profile/132/56973
+Sam Smith's Imperial Stout,http://beeradvocate.com/beer/profile/113/782
+Sam Smith's India Pale Ale,http://beeradvocate.com/beer/profile/113/573
+Sam Smith's Nut Brown Ale,http://beeradvocate.com/beer/profile/113/576
+Sam Smith's Oatmeal Stout,http://beeradvocate.com/beer/profile/113/571
+Sapporo,http://beeradvocate.com/beer/profile/284/15722
+Schneider Weisse,http://beeradvocate.com/beer/profile/72/3280
+Shiner Bock,http://beeradvocate.com/beer/profile/143/1352
+Sierra Nevada Pale Ale,http://beeradvocate.com/beer/profile/140/276
+Sierra Nevada Porter,http://beeradvocate.com/beer/profile/140/279
+Sierra Nevada Seasonal,
+Skullsplitter Orkney Ale,http://beeradvocate.com/beer/profile/118/402
+Smithwicks,http://beeradvocate.com/beer/profile/209/29602
+Smuttynose Robust Porter,http://beeradvocate.com/beer/profile/141/622
+Sol,http://beeradvocate.com/beer/profile/57/2803
+Spaten Optimator,http://beeradvocate.com/beer/profile/142/99
+St. Pauli Girl,http://beeradvocate.com/beer/profile/224/700
+Stone Arrogant Bastard,http://beeradvocate.com/beer/profile/147/92
+Stone IPA,http://beeradvocate.com/beer/profile/147/88
+Strongbow,
+Svyturys Baltijos,http://beeradvocate.com/beer/profile/9374/31755
+Trippell,http://beeradvocate.com/beer/profile/192/1054
+Troegs Dreamweaver,http://beeradvocate.com/beer/profile/694/18305
+Troegs Pale Ale,http://beeradvocate.com/beer/profile/694/2619
+Tusker,http://beeradvocate.com/beer/profile/822/2563
+Wells Banana Bread Beer,http://beeradvocate.com/beer/profile/664/5488
+Weyerbacher Merry Monks,http://beeradvocate.com/beer/profile/392/6073
+Wild Blue,http://beeradvocate.com/beer/profile/29/26049
+Woodchuck Granny Smith,
+Woodchuck Amber,
+Xingu,http://beeradvocate.com/beer/profile/434/1314
+Yards Brawler,http://beeradvocate.com/beer/profile/450/46504
+Zywiec,http://beeradvocate.com/beer/profile/623/1666
