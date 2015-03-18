@@ -1,0 +1,1 @@
+This is an Android application that randomly selects a beer from a stored beer list (currently, the list corresponds to the Rams Head Tavern World Beer Club list) and presents the name to the user (as a hyperlink to the BeerAdvocate.com profile for the beer) and the bottle image from the BeerAdvocate.com profile.
